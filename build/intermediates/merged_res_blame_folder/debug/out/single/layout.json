@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.aci.acinews.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.aci.acinews.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.aci.acinews.app-mergeDebugResources-36:/layout/fragment_news.xml",
+        "source": "com.aci.acinews.app-main-39:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.aci.acinews.app-mergeDebugResources-36:/layout/item_news.xml",
+        "source": "com.aci.acinews.app-main-39:/layout/item_news.xml"
+    }
+]
